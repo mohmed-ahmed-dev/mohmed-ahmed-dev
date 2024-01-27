@@ -1,5 +1,9 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Front+End+Web+Developer;Always+Learning+New+Things)](https://git.io/typing-svg)
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Front+End+Web+Developer;Always+Learning+New+Things" alt="Typing SVG" /></a>
+
 ###
 
 <h4 align="left">Hello there! I'm Mohamed Ahmed, a passionate Front-End Developer with three years of hands-on experience. My journey in web development has led me to explore and master various technologies, allowing me to create engaging and responsive user interfaces.</h4>
