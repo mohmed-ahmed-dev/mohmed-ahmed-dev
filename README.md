@@ -4,7 +4,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Front+End+Web+Developer;Always+Learning+New+Things" alt="Typing SVG" /></a>
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 <h4 align="left">Hello there! I'm Mohamed Ahmed, a passionate Front-End Developer with three years of hands-on experience. My journey in web development has led me to explore and master various technologies, allowing me to create engaging and responsive user interfaces.</h4>
-<h2 align="left">Frontend</h2>
+
 <h6 align="left">Languages: HTML, CSS, JavaScript<br>Frameworks/Libraries: Bootstrap, Tailwind CSS, Vue.js<br>Databases: MySQL<br>Version Control: Git, GitHub</h6>
 
 <h2 align="left">I code with</h2>
