@@ -62,8 +62,15 @@ Hello there! I'm **Mohamed Ahmed**, a passionate Front-End Developer with **3 ye
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=mohmed-ahmed-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohmed-ahmed-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://img.shields.io/github/followers/mohmed-ahmed-dev?style=for-the-badge&logo=github&logoColor=white&color=1d4ed8" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=mohmed-ahmed-dev&style=for-the-badge&color=06b6d4&label=PROFILE+VIEWS" alt="Profile Views" />
+</div>
+
+<br>
+
+<div align="center">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohmed-ahmed-dev&theme=tokyonight" alt="Profile Details" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohmed-ahmed-dev&theme=tokyonight" alt="Top Languages" />
 </div>
 
 <div align="center">
